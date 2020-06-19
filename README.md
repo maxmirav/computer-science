@@ -117,7 +117,7 @@ and is knowledgeable enough now to decide which electives to take.
 
 ### Introduction to Programming
 
-If you've never written a for-loop, or don't know what a string is in programming, start here. Choose one of the two course series below. Either one will give you an introduction to programming that assumes no prior knowledge.
+If you've never written a for-loop, or don't know what a string is in programming, start here. Choose one of the two course series below. Either one will give you an introduction to programming that assumes no prior knowledge. You can audit either for free, _in order to do so, click through to the individual courses in the specializations_.
 
 Trying to decide between them?
 
@@ -189,7 +189,7 @@ Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | 7 weeks | 8-10 hours/week | none
 [How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) | 6 weeks | 8-10 hours/week | How to Code: Simple Data
-[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | 4-8 hours/week | recommended: Java, C
+[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | 4-8 hours/week | How to Code ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh))
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 4-8 hours/week | Programming Languages, Part A
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 4-8 hours/week | Programming Languages, Part B
 
@@ -258,7 +258,7 @@ Courses | Duration | Effort | Additional Text / Assignments| Prerequisites
 [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](http://www.nand2tetris.org/)) | 6 weeks | 7-13 hours/week | - | C-like programming language
 [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | 12-18 hours/week | - | one of [these programming languages](https://user-images.githubusercontent.com/2046800/35426340-f6ce6358-026a-11e8-8bbb-4e95ac36b1d7.png), From Nand to Tetris Part I
 [Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG)| 8 weeks | 4–12 hours/week | [Assignment 1](https://github.com/PrincetonUniversity/COS461-Public/tree/master/assignments/assignment1)<br>[Assignment 2](https://www.scs.stanford.edu/10au-cs144/lab/reliable/reliable.html)<br>[Assignment 3](https://nptel.ac.in/content/storage2/courses/106105080/pdf/M2L7.pdf)<br>[Assignment 4](http://www-net.cs.umass.edu/wireshark-labs/Wireshark_TCP_v7.0.pdf) | algebra, probability, basic CS
-[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) | 10-12 weeks | 6 hours/week | [Homework](http://pages.cs.wisc.edu/~remzi/OSTEP/Homework/homework.html) [Lectures](https://www.youtube.com/channel/UCGweYi6vcfHaTrkap3c1TPg/videos) [Supplement](http://pages.cs.wisc.edu/~shivaram/cs537-sp20/) | algorithms
+[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) | 10-12 weeks | 6 hours/week | - | algorithms
 
 ### Core theory
 
@@ -513,7 +513,7 @@ What is next for you? The possibilities are boundless and overlapping:
 ## How to show your progress
 
 1. Create an account in [Trello](https://trello.com/).
-1. Copy [this](https://trello.com/b/7NIfi40X) board to your personal account.
+1. Copy [this](https://trello.com/b/IScNSzsI/ossu-compsci) board to your personal account.
 See how to copy a board [here](https://help.trello.com/article/802-copying-cards-lists-or-boards).
 
 Now that you have a copy of our official board, you just need to pass the cards to the `Doing` column or `Done` column as you progress in your study.
